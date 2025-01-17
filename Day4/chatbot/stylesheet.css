@@ -1,0 +1,11 @@
+.chatbot{
+    height: 400px;
+    width: 300px;
+    background-color: red;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border: 2px solid green;
+    padding: 10px;
+    box-sizing: border-box;
+}
