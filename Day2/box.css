@@ -32,7 +32,7 @@ h1{
     display: flex;
     flex-wrap: wrap;
     /* flex-direction: column; */
-    justify-content:center;
+    justify-content :space-between;
     gap: 20px;
     /* height: 100vh; */
     align-items: start;

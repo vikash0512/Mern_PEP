@@ -1,0 +1,28 @@
+#id_1{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    padding-left: 100px;
+    position: sticky;
+}
+
+#id_2{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+    padding-left: 300px;
+    position: sticky;
+    height: 400px;
+}
+h1{
+    background-color: aqua;
+    color: blue;
+    position: absolute;
+    left: 100px;
+}
+
+body{
+    background-color: yellowgreen;
+    padding-left: 50px;
+}

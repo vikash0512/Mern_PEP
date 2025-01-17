@@ -1,0 +1,32 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 20px;
+    align-items: start;
+
+}
+
+.flex-items{
+    border: 1px solid green;
+    /* background-color: yellow; */
+    align-content: start;
+    font-size: 30px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+}
+
+
+
+p{
+    font-size: 15px;
+   
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    align-content: start;
+    justify-content: start;
+}
