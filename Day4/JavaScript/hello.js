@@ -20,3 +20,8 @@ const rohit={
     friends:["Vikash","Pradeep"]
 }
 console.log(rohit);
+
+var n=10;
+for(var i=0;i<n;i++){
+    console.log("i like you");
+}
