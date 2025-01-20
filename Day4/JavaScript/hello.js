@@ -21,7 +21,19 @@ const rohit={
 }
 console.log(rohit);
 
-var n=10;
-for(var i=0;i<n;i++){
-    console.log("i like you");
+// var n=10;
+// for(var i=0;i<n;i++){
+//     console.log("i like you");
+// }
+
+const skills =["react","node","express","mongo"];
+for(var i=0;i<skills.length;i++){
+    console.log(skills[i]);
 }
+
+const n = 101;
+let result = "";
+for (var i = 1; i < n; i++) {
+    result += i + " ";
+}
+console.log(result);

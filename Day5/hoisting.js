@@ -2,4 +2,4 @@
 console.log(name);
 var name ;
 name="Vikash";
-console.log(name);
+console.log(name)
