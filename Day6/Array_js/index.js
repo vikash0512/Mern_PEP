@@ -32,6 +32,8 @@ student4_details[3].push="React";
 console.log("student 4 details", student4_details)
 console.log("Student 1 Details" ,student1_details);
 
+// We can copy and change the value of const only in non-premitive data type but it cant be changed in premitive data type.
+
 
 
 
