@@ -51,4 +51,4 @@ console.log(result)
 
  //Another way
 
-//student1_details.filter  //Try this 
+//student1_details.filter  .short()  .reduce()  joins  //Try this 
